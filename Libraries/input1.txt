@@ -1,0 +1,2 @@
+  Leading and  trailing spaces.   
+Multiple      spaces    between  words.
